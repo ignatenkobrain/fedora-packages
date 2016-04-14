@@ -6,3 +6,4 @@ Review Requests
 - [unibilium](https://bugzilla.redhat.com/show_bug.cgi?id=1327160)
 - [libtermkey](https://bugzilla.redhat.com/show_bug.cgi?id=1327198)
 - [libvterm](https://bugzilla.redhat.com/show_bug.cgi?id=1327218)
+- [lua-msgpack](https://bugzilla.redhat.com/show_bug.cgi?id=1117961)

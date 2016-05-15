@@ -8,3 +8,4 @@ Review Requests
 - [libvterm](https://bugzilla.redhat.com/show_bug.cgi?id=1327218)
 - [lua-msgpack](https://bugzilla.redhat.com/show_bug.cgi?id=1117961)
 - [python-pickleshare](https://bugzilla.redhat.com/show_bug.cgi?id=1327980)
+- [golang-github-rubyist-tracerx](https://bugzilla.redhat.com/show_bug.cgi?id=1336159)

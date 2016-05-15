@@ -10,3 +10,4 @@ Review Requests
 - [python-pickleshare](https://bugzilla.redhat.com/show_bug.cgi?id=1327980)
 - [golang-github-rubyist-tracerx](https://bugzilla.redhat.com/show_bug.cgi?id=1336159)
 - [golang-github-ThomsonReutersEikon-go-ntlm](https://bugzilla.redhat.com/show_bug.cgi?id=1336161)
+- [golang-github-bgentry-go-netrc](https://bugzilla.redhat.com/show_bug.cgi?id=1336164)

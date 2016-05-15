@@ -9,3 +9,4 @@ Review Requests
 - [lua-msgpack](https://bugzilla.redhat.com/show_bug.cgi?id=1117961)
 - [python-pickleshare](https://bugzilla.redhat.com/show_bug.cgi?id=1327980)
 - [golang-github-rubyist-tracerx](https://bugzilla.redhat.com/show_bug.cgi?id=1336159)
+- [golang-github-ThomsonReutersEikon-go-ntlm](https://bugzilla.redhat.com/show_bug.cgi?id=1336161)

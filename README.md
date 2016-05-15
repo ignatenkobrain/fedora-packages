@@ -12,3 +12,4 @@ Review Requests
 - [golang-github-ThomsonReutersEikon-go-ntlm](https://bugzilla.redhat.com/show_bug.cgi?id=1336161)
 - [golang-github-bgentry-go-netrc](https://bugzilla.redhat.com/show_bug.cgi?id=1336164)
 - [golang-github-technoweenie-assert](https://bugzilla.redhat.com/show_bug.cgi?id=1336166)
+- [git-lfs](https://bugzilla.redhat.com/show_bug.cgi?id=1336168)

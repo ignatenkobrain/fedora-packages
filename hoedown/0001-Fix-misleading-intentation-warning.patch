@@ -1,0 +1,26 @@
+From 194e592c513ef1179bd0c485f458deb68b5440c7 Mon Sep 17 00:00:00 2001
+From: Daniel Firth <locallycompact@gmail.com>
+Date: Sun, 22 May 2016 21:20:46 +0100
+Subject: [PATCH] Fix misleading intentation warning
+
+---
+ src/document.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/src/document.c b/src/document.c
+index a9cb42c..14a1273 100644
+--- a/src/document.c
++++ b/src/document.c
+@@ -1191,7 +1191,8 @@ char_link(hoedown_buffer *ob, hoedown_document *doc, uint8_t *data, size_t offse
+ 			}
+ 			else if (data[i] == ')') {
+ 				if (nb_p == 0) break;
+-				else nb_p--; i++;
++				else nb_p--;
++				i++;
+ 			} else if (i >= 1 && _isspace(data[i-1]) && (data[i] == '\'' || data[i] == '"')) break;
+ 			else i++;
+ 		}
+-- 
+2.7.4
+

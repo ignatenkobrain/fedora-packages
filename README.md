@@ -15,3 +15,4 @@ Review Requests
 - [git-lfs](https://bugzilla.redhat.com/show_bug.cgi?id=1336168)
 - [hoedown](https://bugzilla.redhat.com/show_bug.cgi?id=1344410)
 - [python-qrencode](https://bugzilla.redhat.com/show_bug.cgi?id=1195835)
+- [geteltorito](https://bugzilla.redhat.com/show_bug.cgi?id=1303411)

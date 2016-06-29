@@ -27,7 +27,7 @@ BuildArch:      noarch
 %prep
 %autosetup -n %{name}-%{commit}
 # Replace shebang
-sed -i -e '1s/.*/%{__python3}/' %{name}/git_helper.py
+sed -i -e '1s|.*|#!%{__python3}|' %{name}/git_helper.py
 
 %build
 %py3_build

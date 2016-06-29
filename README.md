@@ -17,3 +17,4 @@ Review Requests
 - [python-qrencode](https://bugzilla.redhat.com/show_bug.cgi?id=1195835)
 - [geteltorito](https://bugzilla.redhat.com/show_bug.cgi?id=1303411)
 - [python-uritemplate](https://bugzilla.redhat.com/show_bug.cgi?id=1351097)
+- [python-betamax-matchers](https://bugzilla.redhat.com/show_bug.cgi?id=1351115)

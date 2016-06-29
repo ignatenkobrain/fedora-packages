@@ -16,3 +16,4 @@ Review Requests
 - [hoedown](https://bugzilla.redhat.com/show_bug.cgi?id=1344410)
 - [python-qrencode](https://bugzilla.redhat.com/show_bug.cgi?id=1195835)
 - [geteltorito](https://bugzilla.redhat.com/show_bug.cgi?id=1303411)
+- [python-uritemplate](https://bugzilla.redhat.com/show_bug.cgi?id=1351097)

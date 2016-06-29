@@ -19,3 +19,4 @@ Review Requests
 - [python-uritemplate](https://bugzilla.redhat.com/show_bug.cgi?id=1351097)
 - [python-betamax-matchers](https://bugzilla.redhat.com/show_bug.cgi?id=1351115)
 - [python-github3py](https://bugzilla.redhat.com/show_bug.cgi?id=1351138)
+- [homu](https://bugzilla.redhat.com/show_bug.cgi?id=1351161)

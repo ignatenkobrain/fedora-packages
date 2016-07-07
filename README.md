@@ -15,5 +15,4 @@ Review Requests
 - [git-lfs](https://bugzilla.redhat.com/show_bug.cgi?id=1336168)
 - [hoedown](https://bugzilla.redhat.com/show_bug.cgi?id=1344410)
 - [python-betamax-matchers](https://bugzilla.redhat.com/show_bug.cgi?id=1351115)
-- [python-github3py](https://bugzilla.redhat.com/show_bug.cgi?id=1351138)
 - [homu](https://bugzilla.redhat.com/show_bug.cgi?id=1351161)

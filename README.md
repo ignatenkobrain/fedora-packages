@@ -17,3 +17,4 @@ Review Requests
 - [python-betamax-matchers](https://bugzilla.redhat.com/show_bug.cgi?id=1351115)
 - [homu](https://bugzilla.redhat.com/show_bug.cgi?id=1351161)
 - [python-marshmallow-enum](https://bugzilla.redhat.com/show_bug.cgi?id=1353469)
+- [python-multidict](https://bugzilla.redhat.com/show_bug.cgi?id=1349575)

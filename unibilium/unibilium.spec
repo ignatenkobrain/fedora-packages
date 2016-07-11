@@ -12,6 +12,8 @@ BuildRequires:  make
 BuildRequires:  libtool
 # For docs
 BuildRequires:  /usr/bin/pod2man
+# For tests
+BuildRequires:  /usr/bin/prove
 
 %description
 Unibilium is a very basic terminfo library. It doesn't depend on curses or any
@@ -37,6 +39,9 @@ chmod +x ./configure
 %install
 %make_install PREFIX=%{_prefix} LIBDIR=%{_libdir}
 rm -vf %{buildroot}%{_libdir}/*.{a,la}
+
+%check
+make test
 
 %post -p /sbin/ldconfig
 %postun -p /sbin/ldconfig

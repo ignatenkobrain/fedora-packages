@@ -3,7 +3,7 @@
 %global _docdir_fmt %{name}
 
 Name:           python-%{modname}
-Version:        4.7.4
+Version:        4.7.6
 Release:        1%{?dist}
 Summary:        A Fast, Extensible Progress Meter
 
@@ -14,7 +14,7 @@ Source0:        %{url}/archive/v%{version}/%{modname}-%{version}.tar.gz
 BuildArch:      noarch
 
 %global _description \
-tqdm (read taqadum, تقدّم) means "progress" in arabic.\
+tqdm (read taqadum, تقدّم) means "progress" in Arabic.\
 \
 Instantly make your loops show a smart progress meter - just wrap any iterable\
 with "tqdm(iterable)", and you're done!
@@ -80,5 +80,8 @@ Python 3 version.
 %{python3_sitelib}/%{modname}/
 
 %changelog
+* Fri Jul 22 2016 Igor Gnatenko <ignatenko@redhat.com> - 4.7.6-1
+- Update to 4.7.6
+
 * Thu Jun 23 2016 Igor Gnatenko <ignatenko@redhat.com> - 4.7.4-1
 - Initial package

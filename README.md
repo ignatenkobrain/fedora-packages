@@ -16,3 +16,4 @@ Review Requests
 - [python-betamax-matchers](https://bugzilla.redhat.com/show_bug.cgi?id=1351115)
 - [homu](https://bugzilla.redhat.com/show_bug.cgi?id=1351161)
 - [python-aenum](https://bugzilla.redhat.com/show_bug.cgi?id=1354115)
+- [python-tqdm](https://bugzilla.redhat.com/show_bug.cgi?id=1349604)

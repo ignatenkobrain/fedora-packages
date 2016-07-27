@@ -10,7 +10,7 @@ License:        GPLv3+
 URL:            https://gitlab.com/CollectiveTyranny/pluto
 Source0:        %{url}/repository/archive.tar.gz?ref=%{commit}#/%{name}-%{shortcommit}.tar.gz
 
-BuildRequires:  gcc
+BuildRequires:  gcc-c++
 BuildRequires:  cmake
 BuildRequires:  make
 
@@ -45,6 +45,9 @@ popd
 
 %install
 %make_install -C %{_target_platform}
+
+%post -p /sbin/ldconfig
+%postun -p /sbin/ldconfig
 
 %files
 %license LICENSE

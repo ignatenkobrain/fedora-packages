@@ -17,4 +17,3 @@ Review Requests
 - [homu](https://bugzilla.redhat.com/show_bug.cgi?id=1351161)
 - [python-aenum](https://bugzilla.redhat.com/show_bug.cgi?id=1354115)
 - [python-tqdm](https://bugzilla.redhat.com/show_bug.cgi?id=1349604)
-- [pluto](https://bugzilla.redhat.com/show_bug.cgi?id=1360893)

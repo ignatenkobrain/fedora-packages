@@ -57,10 +57,14 @@ PYTHONPATH=%{buildroot}%{python2_sitelib} py.test-2 -v
 PYTHONPATH=%{buildroot}%{python3_sitelib} py.test-3 -v
 
 %files -n python2-%{modname}
+%license LICENSE
+%doc README.rst
 %{python2_sitelib}/%{modname}-*.egg-info/
 %{python2_sitelib}/%{modname}/
 
 %files -n python3-%{modname}
+%license LICENSE
+%doc README.rst
 %{python3_sitelib}/%{modname}-*.egg-info/
 %{python3_sitelib}/%{modname}/
 

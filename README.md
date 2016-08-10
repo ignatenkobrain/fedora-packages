@@ -18,3 +18,4 @@ Review Requests
 - [python-aenum](https://bugzilla.redhat.com/show_bug.cgi?id=1354115)
 - [python-tqdm](https://bugzilla.redhat.com/show_bug.cgi?id=1349604)
 - [python-fuzzyfinder](https://bugzilla.redhat.com/show_bug.cgi?id=1364723)
+- [python-keyrings-alt](https://bugzilla.redhat.com/show_bug.cgi?id=1365794)
